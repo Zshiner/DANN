@@ -1,0 +1,6 @@
+# Exclude large BERT model files (>100MB, exceeds GitHub limit)
+OriginalExperimentalCode/model/bert/bert-base-chinese/model.safetensors
+OriginalExperimentalCode/model/bert/bert-base-chinese/pytorch_model.bin
+OriginalExperimentalCode/model/bert/bert-base-chinese/tf_model.h5
+OriginalExperimentalCode/model/bert/tcmbert/pytorch_model.bin
+OriginalExperimentalCode/model/bert/zybert/pytorch_model.bin
