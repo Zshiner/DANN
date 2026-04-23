@@ -35,5 +35,5 @@ keywords = {Traditional Chinese medicine, Diagnosis prediction, Distribution-awa
 
 # 2 Contact Us
 
-Email: zhaozong111@163.com
+Email: zhaozong111@gmail.com
 
